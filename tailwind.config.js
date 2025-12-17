@@ -77,7 +77,7 @@ module.exports = {
         "4xl": "8px 8px black",
         "bordered-blue": "8px 8px 0 -2px #296cf2, 8px 8px black",
         "bordered-black": "8px 8px 0 -2px black, 8px 8px white",
-        "bordered-orange": "8px 8px 0 -2px #FF6F0F, 8px 8px black",
+        "bordered-red": "8px 8px 0 -2px #FF6F0F, 8px 8px black",
         "bordered-yellow": "0px 0px 0 5px #FFEB01",
         hack: "0px 0px 0 8px #D0A4FF",
       },
